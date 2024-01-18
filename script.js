@@ -6,6 +6,7 @@
         document.getElementById("questions").style.display = "none";
         document.getElementById("que").style.display = "none";
         document.getElementById("init").innerText = "YAAAAYYYYAYAYAYA🎉🎉🎉";
+        document.getElementById("inittt").innerText = "";
         document.getElementById("message").style.display = "block";
         document.getElementById("messageText").innerText = "Great!!!!... so we'll meet up one day and go out on a little...... 'adventure' let's call it.";
         showConfetti()
