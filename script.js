@@ -15,6 +15,7 @@
         document.getElementById("questions").style.display = "none";
         document.getElementById("que").style.display = "none";
         document.getElementById("init").innerText = "Then I'll ask after a bit more time...";
+        document.getElementById("inittt").innerText = "";
         document.getElementById("message").style.display = "block";
         document.getElementById("messageText").innerText = "So I'll keep trying to win you over and get my beautiful sunshine";
 
